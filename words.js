@@ -4424,7 +4424,7 @@ window.katakanaWords = [
     { word: "ラッシュアワー" },
     { word: "オートバイ" },
     { word: "クレーン" },
-    { word: "ジェット機" },
+    { word: "ジェットき", trans: "ジェット機" },
     { word: "スポーツカー" },
     { word: "タクシー" },
     { word: "ダンプ" },
