@@ -4895,7 +4895,7 @@ window.katakanaWords = [
     { word: "タオル" },
     { word: "ティッシュ" },
     { word: "ブラシ" },
-    { word: "歯ブラシ" },
+    { word: "はブラシ" },
     { word: "クリスマス" },
     { word: "サンタクロース" },
     { word: "セレモニー" },
